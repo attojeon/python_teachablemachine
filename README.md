@@ -1,8 +1,12 @@
 # 티처블머신과 파이썬을 사용한 인공지능 공부하기
 
 ## 시스템 요구사항
-Python >= 3.8  
-
+* Python >= 3.8  
+* Microsoft Visual C++ Redistributable latest supported downloads  
+https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170  
+  * 코드 실행시 msvcp.dll ~ 과 같은 에러가 발생할 경우 
+  * 최신의 윈도우 런타임 배포판이 필요함. 
+ 
 ## 설치방법  
 ```bash
 pip install teachable-machine

@@ -1,3 +1,7 @@
+'''
+설치 및 모듈 참조 
+    - https://pypi.org/project/teachable-machine/
+'''
 from teachable_machine import TeachableMachine
 import random 
 
