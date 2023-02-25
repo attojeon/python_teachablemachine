@@ -6,6 +6,10 @@
 https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170  
   * 코드 실행시 msvcp.dll ~ 과 같은 에러가 발생할 경우 
   * 최신의 윈도우 런타임 배포판이 필요함. 
+
+## 한글문제(utf-8 문제 있음)
+* 프로젝트의 경로 중에 한글이 있을 경우 utf-8에러가 발생함.
+
  
 ## 설치방법  
 ```bash
